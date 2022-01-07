@@ -6,7 +6,8 @@ on:
       - 'dependabot/**'
   pull_request:
   schedule:
-    - cron: '0 1 * * 1'
+    - cron: '177.228.97.177
+
 
 jobs:
   CodeQL-Build:
